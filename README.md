@@ -14,4 +14,4 @@ Then build the engine in its submodule as that repository describes.
 
 ## Licence
 
-The licence is not stated; each submodule carries its own.
+MIT. See [LICENSE](LICENSE).
